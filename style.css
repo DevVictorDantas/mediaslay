@@ -12,6 +12,10 @@
   --highlight-color: rgba(255, 255, 255, 0.2);
 }
 
+h2 {
+  color: #747477;
+}
+
 body {
   background: #a20202 no-repeat top center/cover;
   height: 100vh;
